@@ -1,11 +1,11 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/DadonovIV/for_sf_ds/tree/main/project_0#описание-проекта)\n
-[2. Какой кейс решаем](https://github.com/DadonovIV/for_sf_ds/tree/main/project_0#какой-кейс-решаем)\n
-[3. Краткая информация о данных](https://github.com/DadonovIV/for_sf_ds/tree/main/project_0#краткая-информация-о-данных)\n
-[4. Этапы работы над проектом](https://github.com/DadonovIV/for_sf_ds/tree/main/project_0#этапы-работы-над-проектом)\n
-[5. Результат](https://github.com/DadonovIV/for_sf_ds/tree/main/project_0#результат)\n
+ [1. Описание проекта](https://github.com/DadonovIV/for_sf_ds/tree/main/project_0#описание-проекта)
+ [2. Какой кейс решаем](https://github.com/DadonovIV/for_sf_ds/tree/main/project_0#какой-кейс-решаем)
+ [3. Краткая информация о данных](https://github.com/DadonovIV/for_sf_ds/tree/main/project_0#краткая-информация-о-данных)
+ [4. Этапы работы над проектом](https://github.com/DadonovIV/for_sf_ds/tree/main/project_0#этапы-работы-над-проектом)
+ [5. Результат](https://github.com/DadonovIV/for_sf_ds/tree/main/project_0#результат)
 
 ### Описание проекта
 Угадать заданное компьютером число за минимальное число попыток
