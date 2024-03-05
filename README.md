@@ -1,6 +1,6 @@
 # My data scince project for example
 
-From the [SkillFactory Data Scince course]().
+From the [SkillFactory Data Scince course](https://skillfactory.ru/courses/data-science).
 
 ## Projects
 
