@@ -19,7 +19,7 @@ def random_predict(number:int=1) -> int:
     max_limit = 101
     predict_number = np.random.randint(min_limit, max_limit) # предполагаемое число
 
-    while number == predict_number:
+    while number != predict_number:
         count += 1
         #predict_number = np.random.randint(min_limit, max_limit) # предполагаемое число
         if number > predict_number:
