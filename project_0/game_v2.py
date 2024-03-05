@@ -15,12 +15,17 @@ def random_predict(number:int=1) -> int:
     """
     
     count = 0
+    min_limit = 1
+    max_limit = 101
 
-    while True:
+    while number == predict_number:
         count += 1
-        predict_number = np.random.randint(1, 101) # предполагаемое число
-        if number == predict_number:
-            break # выход из цикла, если угадали
+        predict_number = np.random.randint(min_limit, max_limit) # предполагаемое число
+        if number > predict_number:
+            min_limit = predict_number + 1
+        elif number < predict_number:
+            max_limit = predict_number
+
     return(count)
 
 def score_game(random_predict) -> int:
